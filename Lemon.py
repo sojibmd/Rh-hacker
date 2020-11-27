@@ -69,7 +69,7 @@ logo = """
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- 
 
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
 
@@ -79,19 +79,19 @@ logo = """
 
 """
 logo2 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[1;93m╱╱╱╰╯
+\033[1;93m        R
+\033[1;93m
+\033[1;93m         h
+\033[1;93m      hacker
+\033[1;93m        bd
+\033[1;93m
+\033[1;93m╱╱╱
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Rh king
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  cyber king by Rh
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
@@ -99,19 +99,19 @@ logo2 = """
 
 """
 logo3 = """
-\033[1;93m╭━━━╮
-\033[1;93m┃╭━╮┃
-\033[1;93m┃┃╱┃┣━━┳┳━━┳━━┳━╮
-\033[1;93m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
+\033[1;93m
+\033[1;93m   R
+\033[1;93m
+\033[1;93m    h
+\033[1;93m
+\033[1;93m
 \033[1;93m╱╱╱╰╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :- Rh-hacker
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Rh-hacker
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> YOUTUBE :-  Rh-hacker
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
@@ -578,8 +578,8 @@ print  """
 
 """
 
-CorrectUsername = "Qaiser"
-CorrectPassword = "Lemon"
+CorrectUsername = Rh hacker
+CorrectPassword = hacker
 
 loop = 'true'
 while (loop == 'true'):
