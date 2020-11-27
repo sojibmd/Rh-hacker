@@ -578,7 +578,7 @@ print  """
 
 """
 
-CorrectUsername = Rh hacker
+CorrectUsername = Rh
 CorrectPassword = hacker
 
 loop = 'true'
